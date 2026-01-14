@@ -19,7 +19,7 @@
 
   💬 Ask me about **HTML, CSS, JavaScript, and Matcha!**
 
-  📫 How to reach me **sarahalcodes@gmail.com**
+  📫 How to reach me **sarah.alsaiid@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
