@@ -2,11 +2,7 @@
 
 <h1 align="center">Hello 👋🏽, my name is Sarah!</h1>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/sarah-al-said/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-sarahalcodes&style=flat-square&color=blue" alt=""/> </div>
 
   🔭 I'm a software engineer based in South Florida.
