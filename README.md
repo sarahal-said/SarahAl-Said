@@ -1,6 +1,5 @@
-<div align="center"> <img src ="https://user-images.githubusercontent.com/101753940/200074131-d199b728-8185-4ec8-9bad-695e3ecb791c.png"> </div>
 
-<h1 align="center">Hello 👋🏽, my name is Sarah!</h1>
+<h1 align="center">Hello, my name is Sarah!</h1>
 
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-sarahalcodes&style=flat-square&color=blue" alt=""/> </div>
