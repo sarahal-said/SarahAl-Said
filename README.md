@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/sarahal-said">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+production-grade+AI+systems;Prompt+Engineering+%C2%B7+RAG+Architecture;LLM+Evals+%C2%B7+AI+Safety+%C2%B7+LLMOps;Eval-first.+Production-hardened.+Built+to+last." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=A5D6FF&center=true&vCenter=true&width=600&lines=Building+production-grade+AI+systems;Prompt+Engineering+%C2%B7+RAG+Architecture;LLM+Evals+%C2%B7+AI+Safety+%C2%B7+LLMOps;Eval-first.+Production-hardened.+Built+to+last." alt="Typing SVG" />
 </a>
 
 </div>
@@ -164,7 +164,7 @@ Drop-in LLM safety proxy with PII redaction, adversarial testing, and live obser
 ## GitHub Stats
 
 <div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=sarahal-said&theme=tokyo-night&hide_border=true&area=true&color=a78bfa&line=a78bfa&point=ffffff" />
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=sarahal-said&theme=tokyo-night&hide_border=true&area=true&color=A5D6FF&line=A5D6FF&point=ffffff" />
 </div>
 
 ---
@@ -179,7 +179,7 @@ Drop-in LLM safety proxy with PII redaction, adversarial testing, and live obser
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=62,20,24&height=100&section=footer&fontSize=12&fontColor=c4b5fd" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&fontSize=12&fontColor=c4b5fd" />
   
 *Good AI isn't clever — it's reliable, measured, and built to last.*
 
