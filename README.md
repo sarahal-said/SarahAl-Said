@@ -18,8 +18,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-sarahalsaiid-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://sarah-alsaid.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-sarah--alsaid.netlify.app-000000?style=flat-square&logo=safari&logoColor=white" />
+ <a href="https://sarahalsaid.com">
+    <img src="https://img.shields.io/badge/Portfolio-sarahalsaid.com-000000?style=flat-square&logo=safari&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:sarah.alsaiid@gmail.com">
@@ -35,10 +35,10 @@
 
 ```python
 sarah = {
-    "role"       : "AI Engineer",
+    "role"       : "Software Engineer",
     "focus"      : ["Prompt Engineering", "RAG Architecture", "LLM Evals", "AI Safety"],
     "stack"      : ["Python", "LangChain", "LangGraph", "FastAPI", "AWS"],
-    "experience" : "4 years software engineering · healthcare operations background",
+    "experience" : "software engineering · healthcare operations",
     "education"  : "BS + MS Computer Science @ Western Governors University",
     "location"   : "South Florida · Remote",
     "status"     : "🟢 Open to AI Engineering roles",
@@ -199,7 +199,7 @@ Drop-in LLM safety proxy with PII redaction, adversarial testing, and live obser
 - 🔨 &nbsp; Building open-source LLM eval and safety tooling in public
 - 📖 &nbsp; Completing MS in Computer Science at Western Governors University
 - 🔍 &nbsp; Open to **AI Engineering · Prompt Engineering · LLM Engineer** roles
-- ✍️ &nbsp; Portfolio → [sarah-alsaid.netlify.app](https://sarah-alsaid.netlify.app)
+- ✍️ &nbsp; Portfolio → (https://sarahalsaid.com/)
 
 ---
 
