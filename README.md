@@ -8,25 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+production-grade+AI+systems;Prompt+Engineering+%C2%B7+RAG+Architecture;LLM+Evals+%C2%B7+AI+Safety+%C2%B7+LLMOps;Eval-first.+Production-hardened.+Built+to+last." alt="Typing SVG" />
 </a>
 
-<br/>
-
-<!-- Profile views + social badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=sarahal-said&style=flat-square&color=a78bfa&label=PROFILE+VIEWS" />
-  &nbsp;
-  <a href="https://linkedin.com/in/sarahalsaiid">
-    <img src="https://img.shields.io/badge/LinkedIn-sarahalsaiid-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
- <a href="https://sarahalsaid.com">
-    <img src="https://img.shields.io/badge/Portfolio-sarahalsaid.com-000000?style=flat-square&logo=safari&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:sarah.alsaiid@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sarah.alsaiid@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 </div>
 
 ---
@@ -41,7 +22,7 @@ sarah = {
     "experience" : "software engineering · healthcare operations",
     "education"  : "BS + MS Computer Science @ Western Governors University",
     "location"   : "South Florida · Remote",
-    "status"     : "🟢 Open to AI Engineering roles",
+    "status"     : "Open to AI Engineering roles",
 }
 ```
 
@@ -183,12 +164,6 @@ Drop-in LLM safety proxy with PII redaction, adversarial testing, and live obser
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sarahal-said&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" />
-  &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahal-said&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<div align="center">
   <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=sarahal-said&theme=tokyo-night&hide_border=true&area=true&color=a78bfa&line=a78bfa&point=ffffff" />
 </div>
 
@@ -204,9 +179,8 @@ Drop-in LLM safety proxy with PII redaction, adversarial testing, and live obser
 ---
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&fontSize=12&fontColor=c4b5fd" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=62,20,24&height=100&section=footer&fontSize=12&fontColor=c4b5fd" />
+  
 *Good AI isn't clever — it's reliable, measured, and built to last.*
 
 </div>
