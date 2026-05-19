@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Sarah%20Al-Said&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Prompt%20Engineering%20%C2%B7%20LLM%20Systems%20%C2%B7%20RAG&descAlignY=58&descSize=16&descColor=c4b5fd" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Sarah%20Al-Said&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Prompt%20Engineering%20%C2%B7%20LLM%20Systems%20%C2%B7%20RAG&descAlignY=58&descSize=16&descColor=c4b5fd" />
 
 <!-- Typing animation -->
 <a href="https://github.com/sarahal-said">
@@ -22,7 +22,7 @@ sarah = {
     "experience" : "software engineering · healthcare operations",
     "education"  : "BS + MS Computer Science @ Western Governors University",
     "location"   : "South Florida · Remote",
-    "status"     : "Open to AI Engineering roles",
+    "status"     : "Open to Software Engineering roles",
 }
 ```
 
