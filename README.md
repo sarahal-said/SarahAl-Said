@@ -20,13 +20,13 @@ sarah = {
     "focus"      : ["Prompt Engineering", "RAG Architecture", "LLM Evals", "AI Safety"],
     "stack"      : ["Python", "LangChain", "LangGraph", "FastAPI", "AWS"],
     "experience" : "software engineering · healthcare operations",
-    "education"  : "BS + MS Computer Science @ Western Governors University",
+    "education"  : "BS + MS Computer Science",
     "location"   : "South Florida · Remote",
     "status"     : "Open to Software Engineering roles",
 }
 ```
 
-I build AI systems that are **reliable by design** — eval-first development, guardrails from day one, observability as a first-class concern. Four years of engineering across financial services and marketing technology, combined with a background in regulated healthcare operations, means I ship AI that works in the real world.
+I build machine learning systems that are **reliable by design** — eval-first development, guardrails from day one, observability as a first-class concern. With software engineering experience across financial services, healthcare, and marketing technology, and a background in regulated healthcare operations, I build AI that works in the real world.
 
 ---
 
