@@ -35,21 +35,21 @@ I build machine learning systems that are **reliable by design** — eval-first 
 <table>
   <tr>
     <td width="50%">
-      <h4>🔍 RAG Pipelines</h4>
+      <h4>RAG Pipelines</h4>
       Hybrid retrieval with BM25 + dense search, reranking, citation tracing, and hallucination guardrails. Not toy demos — production systems with measurable accuracy improvements.
     </td>
     <td width="50%">
-      <h4>🧪 LLM Evaluation</h4>
+      <h4>LLM Evaluation</h4>
       Eval frameworks that treat prompts like code. Offline regression tests, online A/B experiments, CI/CD gates that block deploys on faithfulness regression.
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h4>🛡️ AI Safety Infrastructure</h4>
+      <h4>AI Safety Infrastructure</h4>
       Drop-in LLM proxies with PII redaction, toxicity filtering, red-team test suites, and real-time observability dashboards for production LLM I/O.
     </td>
     <td width="50%">
-      <h4>⚡ Prompt Systems at Scale</h4>
+      <h4>Prompt Systems at Scale</h4>
       Prompt architecture that's versioned, measured, and production-hardened. System prompts, few-shot templates, dynamic context injection — all treated as engineered artifacts.
     </td>
   </tr>
@@ -66,7 +66,7 @@ I build machine learning systems that are **reliable by design** — eval-first 
 
 <td width="33%" valign="top">
 
-### 🔍 [ContextRAG](https://github.com/sarahal-said)
+### [ContextRAG](https://github.com/sarahal-said)
 
 Modular RAG framework for any document corpus with hybrid retrieval and reranking.
 
@@ -82,7 +82,7 @@ Modular RAG framework for any document corpus with hybrid retrieval and rerankin
 
 <td width="33%" valign="top">
 
-### 🧪 [EvalKit](https://github.com/sarahal-said)
+### [EvalKit](https://github.com/sarahal-said)
 
 Open-source LLMOps eval harness with prompt versioning and CI/CD regression gating.
 
@@ -98,7 +98,7 @@ Open-source LLMOps eval harness with prompt versioning and CI/CD regression gati
 
 <td width="33%" valign="top">
 
-### 🛡️ [SafeLayer](https://github.com/sarahal-said)
+### [SafeLayer](https://github.com/sarahal-said)
 
 Drop-in LLM safety proxy with PII redaction, adversarial testing, and live observability.
 
@@ -161,26 +161,12 @@ Drop-in LLM safety proxy with PII redaction, adversarial testing, and live obser
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=sarahal-said&theme=tokyo-night&hide_border=true&area=true&color=A5D6FF&line=A5D6FF&point=ffffff" />
-</div>
-
----
 
 ## Currently
 
-- 🔨 &nbsp; Building open-source LLM eval and safety tooling in public
-- 📖 &nbsp; Completing MS in Computer Science at Western Governors University
-- 🔍 &nbsp; Open to **AI Engineering · Prompt Engineering · LLM Engineer** roles
-- ✍️ &nbsp; Portfolio → (https://sarahalsaid.com/)
+- Building open-source LLM eval and safety tooling in public
+- Completing MS in Computer Science at Western Governors University
+- Open to **AI Engineering · Prompt Engineering · LLM Engineer** roles
+- Portfolio → (https://sarahalsaid.com/)
 
 ---
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&fontSize=12&fontColor=c4b5fd" />
-  
-*Good AI isn't clever — it's reliable, measured, and built to last.*
-
-</div>
