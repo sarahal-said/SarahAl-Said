@@ -26,7 +26,7 @@ sarah = {
 }
 ```
 
-I build machine learning systems that are **reliable by design** — eval-first development, guardrails from day one, observability as a first-class concern. With software engineering experience across financial services, healthcare, and marketing technology, and a background in regulated healthcare operations, I build AI that works in the real world.
+I build machine learning systems that are **reliable by design**, eval-first development, guardrails from day one, and observability as a first-class concern. With software engineering experience across financial services, healthcare, and marketing technology, and a background in regulated healthcare operations, I build AI that works in the real world.
 
 ---
 
@@ -36,7 +36,7 @@ I build machine learning systems that are **reliable by design** — eval-first 
   <tr>
     <td width="50%">
       <h4>RAG Pipelines</h4>
-      Hybrid retrieval with BM25 + dense search, reranking, citation tracing, and hallucination guardrails. Not toy demos — production systems with measurable accuracy improvements.
+      Hybrid retrieval with BM25 + dense search, reranking, citation tracing, and hallucination guardrails.
     </td>
     <td width="50%">
       <h4>LLM Evaluation</h4>
@@ -50,7 +50,7 @@ I build machine learning systems that are **reliable by design** — eval-first 
     </td>
     <td width="50%">
       <h4>Prompt Systems at Scale</h4>
-      Prompt architecture that's versioned, measured, and production-hardened. System prompts, few-shot templates, dynamic context injection — all treated as engineered artifacts.
+      Prompt architecture that's versioned, measured, and production-hardened. System prompts, few-shot templates, dynamic context injection, all treated as engineered artifacts.
     </td>
   </tr>
 </table>
