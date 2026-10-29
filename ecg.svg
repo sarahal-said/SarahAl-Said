@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 60" width="800" height="60" role="img" aria-label="Heartbeat line">
+  <style>
+    .line {
+      fill: none;
+      stroke: #14b8a6;
+      stroke-width: 2.5;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-dasharray: 900;
+      stroke-dashoffset: 900;
+      animation: draw 4s linear infinite;
+    }
+    .base {
+      fill: none;
+      stroke: #14b8a6;
+      stroke-opacity: 0.18;
+      stroke-width: 2.5;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+    @keyframes draw {
+      0%   { stroke-dashoffset: 900; opacity: 1; }
+      70%  { stroke-dashoffset: 0;   opacity: 1; }
+      100% { stroke-dashoffset: 0;   opacity: 0; }
+    }
+  </style>
+  <path class="base" d="M0,30 L90,30 L105,30 L113,14 L121,46 L131,4 L143,56 L152,30 L170,30 L182,22 L194,30 L290,30
+    L305,30 L313,14 L321,46 L331,4 L343,56 L352,30 L370,30 L382,22 L394,30 L490,30
+    L505,30 L513,14 L521,46 L531,4 L543,56 L552,30 L570,30 L582,22 L594,30 L690,30
+    L705,30 L713,14 L721,46 L731,4 L743,56 L752,30 L770,30 L782,22 L794,30 L800,30"/>
+  <path class="line" d="M0,30 L90,30 L105,30 L113,14 L121,46 L131,4 L143,56 L152,30 L170,30 L182,22 L194,30 L290,30
+    L305,30 L313,14 L321,46 L331,4 L343,56 L352,30 L370,30 L382,22 L394,30 L490,30
+    L505,30 L513,14 L521,46 L531,4 L543,56 L552,30 L570,30 L582,22 L594,30 L690,30
+    L705,30 L713,14 L721,46 L731,4 L743,56 L752,30 L770,30 L782,22 L794,30 L800,30"/>
+</svg>
