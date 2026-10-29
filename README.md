@@ -1,114 +1,128 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Sarah%20Al-Said&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Prompt%20Engineering%20%C2%B7%20LLM%20Systems%20%C2%B7%20RAG&descAlignY=58&descSize=16&descColor=c4b5fd" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:0d9488,100:0ea5e9&height=190&section=header&text=Sarah%20Al-Said&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Health%20Tech%20%C2%B7%20Legacy%20System%20Integration%20%C2%B7%20Access%20to%20Care&descAlignY=58&descSize=15&descColor=ccfbf1" />
 
-<!-- Typing animation -->
 <a href="https://github.com/sarahal-said">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=A5D6FF&center=true&vCenter=true&width=600&lines=Building+production-grade+AI+systems;Prompt+Engineering+%C2%B7+RAG+Architecture;LLM+Evals+%C2%B7+AI+Safety+%C2%B7+LLMOps;Eval-first.+Production-hardened.+Built+to+last." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=Finding+the+bottleneck.+Fixing+the+bottleneck.;Bringing+AI+to+the+systems+healthcare+already+runs+on;Healthcare+operations+%C3%97+software+engineering;Making+care+easier+to+reach." alt="Typing SVG" />
 </a>
+
+<br/>
+
+![Health Services Administration](https://img.shields.io/badge/BS_%2B_MHSA-Health_Services_Administration-0f766e?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMCAzaDR2N2g3djRoLTd2N2gtNHYtN0gzdi00aDd6Ii8+PC9zdmc+)
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-0ea5e9?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![Health Tech](https://img.shields.io/badge/Health_Tech-14b8a6?style=for-the-badge)
+![Privacy First](https://img.shields.io/badge/Privacy--First_Design-334155?style=for-the-badge)
+
+<img src="https://raw.githubusercontent.com/sarahal-said/sarahal-said/main/ecg.svg" width="80%" alt="" />
 
 </div>
 
 ---
 
-## About
+## 🩺 About
+
+I like problems that have been stuck for a long time.
+
+I started in healthcare, earning a **BS and a Master of Health Services Administration (MHSA)**, and worked in healthcare operations at organizations like HCA Healthcare. That's where I learned what a bottleneck looks like from the inside: the referral that sits in a fax queue, the prior authorization that takes days, the intake form re-typed into three systems, the patient who gives up before reaching a clinician.
+
+Most of these delays are not caused by a lack of good people. They come from systems that don't talk to each other, and from manual handoffs that no one has had time to redesign.
+
+So I became a software engineer. I've built software in financial services and marketing technology, and I'm finishing a **BS/MS in Computer Science (AI & Machine Learning)** at WGU. Now I build software that fits into the infrastructure healthcare already depends on (EHRs, legacy databases, document-heavy workflows), adding AI where it removes real friction instead of asking the industry to start over.
 
 ```python
 sarah = {
-    "role"       : "Software Engineer",
-    "focus"      : ["Prompt Engineering", "RAG Architecture", "LLM Evals", "AI Safety"],
-    "stack"      : ["Python", "LangChain", "LangGraph", "FastAPI", "AWS"],
-    "experience" : "software engineering · healthcare operations",
-    "education"  : "BS + MS Computer Science",
-    "location"   : "South Florida · Remote",
-    "status"     : "Open to Software Engineering roles",
+    "role"        : "Software Engineer",
+    "domain"      : "Health tech · workflow automation · legacy system integration",
+    "mission"     : "Remove the bottlenecks that stand between people and care",
+    "education"   : [
+        "BS + MHSA, Health Services Administration (FIU)",
+        "BS/MS Computer Science, AI & ML (WGU, in progress)",
+    ],
+    "languages"   : ["Python", "Java", "JavaScript", "TypeScript", "SQL"],
+    "stack"       : ["FastAPI", "Supabase", "Ollama", "LangChain", "AWS"],
+    "location"    : "South Florida · Remote",
+    "status"      : "Open to Software Engineering roles in health tech",
 }
 ```
 
-I build machine learning systems that are **reliable by design**, eval-first development, guardrails from day one, and observability as a first-class concern. With software engineering experience across financial services, healthcare, and marketing technology, and a background in regulated healthcare operations, I build AI that works in the real world.
+---
+
+## 🏥 Where I Work in the Care Journey
+
+Care is a chain of handoffs, and every handoff is a chance to lose time or lose the patient. I look for the links that break.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sarahal-said/sarahal-said/main/care-journey.svg" width="100%" alt="Care journey from patient need to care delivered, with common bottlenecks at intake (re-keyed forms), referral (fax queues), prior authorization (days of waiting), and scheduling (scattered portals). Illustrative, not measured data." />
+
+</div>
 
 ---
 
-## What I Build
+## 💡 How I Think
+
+1. **Start with the workflow, not the technology.** I map where time and patients are lost before writing any code.
+2. **Meet legacy systems where they are.** Healthcare runs on systems that are old and deeply embedded. I build new layers that integrate with them, not rip-and-replace projects.
+3. **Reliability is part of access.** A tool that fails quietly in a clinical or regulated setting doesn't help anyone. I build with tests, guardrails, PII protection, and observability from day one.
+4. **Measure the bottleneck.** If a change doesn't reduce wait time, rework, or drop-off, it isn't done.
+
+---
+
+## 🔧 What I Build
 
 <table>
   <tr>
     <td width="50%">
-      <h4>RAG Pipelines</h4>
-      Hybrid retrieval with BM25 + dense search, reranking, citation tracing, and hallucination guardrails.
+      <h4>⚙️ Workflow Automation</h4>
+      Intake, matching, routing, approval, and payment workflows that replace manual handoffs, with a human kept in the loop where it matters.
     </td>
     <td width="50%">
-      <h4>LLM Evaluation</h4>
-      Eval frameworks that treat prompts like code. Offline regression tests, online A/B experiments, CI/CD gates that block deploys on faithfulness regression.
+      <h4>🔌 AI Layers for Legacy Systems</h4>
+      AI features that wrap around existing systems through APIs and structured handoffs, so teams get smarter tools without replacing what already works.
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h4>AI Safety Infrastructure</h4>
-      Drop-in LLM proxies with PII redaction, toxicity filtering, red-team test suites, and real-time observability dashboards for production LLM I/O.
+      <h4>📄 RAG over Messy, Real-World Documents</h4>
+      Hybrid retrieval (BM25 + dense search), reranking, citation tracing, and hallucination guardrails, so staff can get answers from documents that were never designed to be searched.
     </td>
     <td width="50%">
-      <h4>Prompt Systems at Scale</h4>
-      Prompt architecture that's versioned, measured, and production-hardened. System prompts, few-shot templates, dynamic context injection, all treated as engineered artifacts.
+      <h4>🛡️ Safe, Privacy-Aware AI</h4>
+      LLM proxies with PII redaction, toxicity filtering, red-team test suites, and real-time observability. Local model options like Ollama for settings where data can't leave the building.
     </td>
   </tr>
 </table>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### [ContextRAG](https://github.com/sarahal-said)
+### 🧾 Billio
 
-Modular RAG framework for any document corpus with hybrid retrieval and reranking.
-
-**55% improvement** in answer relevance over naive RAG
+AI-integrated property bills manager. Automates bill intake, matching, approvals, and payments so property managers stop chasing paperwork.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### [EvalKit](https://github.com/sarahal-said)
+### 🩺 MediTracker
 
-Open-source LLMOps eval harness with prompt versioning and CI/CD regression gating.
-
-**CI/CD gate** blocks deploys on faithfulness regression
+AI-integrated app that keeps all of your doctor appointments in one place, so patients can stay on top of their care instead of juggling portals, emails, and reminders.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![RAGAS](https://img.shields.io/badge/RAGAS-000000?style=flat-square)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![DeepEval](https://img.shields.io/badge/DeepEval-000000?style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-</td>
-
-<td width="33%" valign="top">
-
-### [SafeLayer](https://github.com/sarahal-said)
-
-Drop-in LLM safety proxy with PII redaction, adversarial testing, and live observability.
-
-**200+ red-team** prompt templates across 12 risk categories
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Presidio](https://img.shields.io/badge/Presidio-0078D4?style=flat-square)
-![OpenTelemetry](https://img.shields.io/badge/OTel-000000?style=flat-square&logo=opentelemetry&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
 
 </td>
 
@@ -119,13 +133,30 @@ Drop-in LLM safety proxy with PII redaction, adversarial testing, and live obser
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
-**LLMs & Orchestration**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Data**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**LLMs & Orchestration**
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
@@ -141,32 +172,33 @@ Drop-in LLM safety proxy with PII redaction, adversarial testing, and live obser
 ![Weaviate](https://img.shields.io/badge/Weaviate-FF5722?style=for-the-badge)
 ![Chroma](https://img.shields.io/badge/Chroma-000000?style=for-the-badge)
 
-**Cloud & DevOps**
+**Cloud, DevOps & Observability**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-**LLMOps & Observability**
-
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 </div>
 
 ---
 
+## 📍 Currently
 
-## Currently
+- Building Billio and MediTracker, and open-source tooling for safe, reliable AI
+- Finishing my BS/MS in Computer Science (AI & ML) at Western Governors University
+- Looking for **Software Engineering** roles on health tech teams working to make care faster and more accessible
+- Portfolio → [sarahalsaid.com](https://sarahalsaid.com/)
 
-- Building open-source LLM eval and safety tooling in public
-- Completing MS in Computer Science at Western Governors University
-- Open to **AI Engineering · Prompt Engineering · LLM Engineer** roles
-- Portfolio → (https://sarahalsaid.com/)
+> If your team is fighting a healthcare bottleneck, I'd like to hear about it.
 
----
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sarahal-said/sarahal-said/main/ecg.svg" width="80%" alt="" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:0d9488,100:0ea5e9&height=100&section=footer" />
+
+</div>
