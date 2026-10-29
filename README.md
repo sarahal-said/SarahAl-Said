@@ -11,7 +11,6 @@
 ![Computer Science](https://img.shields.io/badge/BS%2FMS-Computer_Science-0ea5e9?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![Health Services Administration](https://img.shields.io/badge/BS_%2B_MHSA-Health_Services_Administration-0f766e?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMCAzaDR2N2g3djRoLTd2N2gtNHYtN0gzdi00aDd6Ii8+PC9zdmc+)
 ![Software Engineering](https://img.shields.io/badge/Software_Engineering-0ea5e9?style=for-the-badge&logo=gnometerminal&logoColor=white)
-![Health Tech](https://img.shields.io/badge/Health_Tech-14b8a6?style=for-the-badge)
 
 <img src="https://raw.githubusercontent.com/sarahal-said/sarahal-said/main/ecg.svg" width="80%" alt="" />
 
