@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 326" width="960" height="326" role="img" aria-label="Care journey from patient to care delivered, with common bottlenecks at intake (re-keyed forms), referral (fax queues), prior authorization (days of waiting), and scheduling (scattered portals). Illustrative, not measured data.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f0fdfa"/>
+      <stop offset="1" stop-color="#e0f2fe"/>
+    </linearGradient>
+    <linearGradient id="endcard" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f766e"/>
+      <stop offset="1" stop-color="#0ea5e9"/>
+    </linearGradient>
+    <linearGradient id="pillfill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fee2e2"/>
+      <stop offset="1" stop-color="#fecaca"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#0f766e" flood-opacity="0.2"/>
+    </filter>
+    <filter id="redshadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#dc2626" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; text-anchor: middle; }
+    .title  { fill: #0f766e; font-size: 12px; font-weight: 700; letter-spacing: 3px; }
+    .card   { fill: #ffffff; stroke: #5eead4; stroke-width: 1.5; }
+    .endc   { fill: url(#endcard); }
+    .badge  { fill: #ccfbf1; }
+    .badgew { fill: #ffffff; fill-opacity: 0.22; }
+    .ic     { fill: none; stroke: #0f766e; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+    .icw    { fill: none; stroke: #ffffff; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+    .main   { fill: #134e4a; font-size: 15px; font-weight: 700; }
+    .mainw  { fill: #ffffff; font-size: 15px; font-weight: 700; }
+    .sub    { fill: #64748b; font-size: 11px; }
+    .subw   { fill: #ccfbf1; font-size: 11px; }
+    .chev   { fill: none; stroke: #14b8a6; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+    .tie    { stroke: #f87171; stroke-width: 1.5; stroke-dasharray: 4 4; }
+    .pill   { fill: url(#pillfill); stroke: #f87171; stroke-width: 1.5; animation: pulse 2.6s ease-in-out infinite; }
+    .alert  { fill: #dc2626; }
+    .bang   { fill: #ffffff; font-size: 12px; font-weight: 800; }
+    .pillh  { fill: #991b1b; font-size: 9.5px; font-weight: 800; letter-spacing: 1.5px; }
+    .pillt  { fill: #7f1d1d; font-size: 13px; font-weight: 600; }
+    .brace  { fill: none; stroke: #0f766e; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+    .build  { fill: #0f766e; font-size: 13px; font-weight: 700; }
+    .note   { fill: #64748b; font-size: 11px; font-style: italic; }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.7; } }
+  </style>
+
+  <!-- Background -->
+  <rect x="2" y="2" width="956" height="322" rx="18" fill="url(#bg)" stroke="#99f6e4" stroke-width="2"/>
+  <text class="title" x="480" y="34">THE CARE JOURNEY</text>
+
+  <!-- Chevrons between cards -->
+  <g class="chev">
+    <path d="M166,106 L172,110 L166,114"/>
+    <path d="M316,106 L322,110 L316,114"/>
+    <path d="M466,106 L472,110 L466,114"/>
+    <path d="M616,106 L622,110 L616,114"/>
+    <path d="M766,106 L772,110 L766,114"/>
+  </g>
+
+  <!-- Card 1: Patient -->
+  <g filter="url(#shadow)">
+    <rect class="endc" x="40" y="56" width="130" height="108" rx="16"/>
+  </g>
+  <circle class="badgew" cx="105" cy="92" r="22"/>
+  <g class="icw" transform="translate(105,92)">
+    <circle cx="0" cy="-5" r="4.5"/>
+    <path d="M-8,10 Q-8,2 0,2 Q8,2 8,10"/>
+  </g>
+  <text class="mainw" x="105" y="138">Patient</text>
+  <text class="subw" x="105" y="153">needs care</text>
+
+  <!-- Card 2: Intake -->
+  <g filter="url(#shadow)">
+    <rect class="card" x="190" y="56" width="130" height="108" rx="16"/>
+  </g>
+  <circle class="badge" cx="255" cy="92" r="22"/>
+  <g class="ic" transform="translate(255,92)">
+    <rect x="-8" y="-9" width="16" height="20" rx="2"/>
+    <rect x="-4" y="-12" width="8" height="5" rx="1.5"/>
+    <path d="M-4,0 H4 M-4,5 H2"/>
+  </g>
+  <text class="main" x="255" y="138">Intake</text>
+  <text class="sub" x="255" y="153">forms &amp; records</text>
+
+  <!-- Card 3: Referral -->
+  <g filter="url(#shadow)">
+    <rect class="card" x="340" y="56" width="130" height="108" rx="16"/>
+  </g>
+  <circle class="badge" cx="405" cy="92" r="22"/>
+  <g class="ic" transform="translate(405,92)">
+    <path d="M-10,-2 L10,-10 L4,10 L0,2 Z"/>
+    <path d="M0,2 L10,-10"/>
+  </g>
+  <text class="main" x="405" y="138">Referral</text>
+  <text class="sub" x="405" y="153">to specialists</text>
+
+  <!-- Card 4: Prior auth -->
+  <g filter="url(#shadow)">
+    <rect class="card" x="490" y="56" width="130" height="108" rx="16"/>
+  </g>
+  <circle class="badge" cx="555" cy="92" r="22"/>
+  <g class="ic" transform="translate(555,92)">
+    <path d="M0,-11 L9,-7 V0 C9,6 5,10 0,12 C-5,10 -9,6 -9,0 V-7 Z"/>
+    <path d="M-4,0 L-1,3 L5,-4"/>
+  </g>
+  <text class="main" x="555" y="138">Prior auth</text>
+  <text class="sub" x="555" y="153">insurance approval</text>
+
+  <!-- Card 5: Scheduling -->
+  <g filter="url(#shadow)">
+    <rect class="card" x="640" y="56" width="130" height="108" rx="16"/>
+  </g>
+  <circle class="badge" cx="705" cy="92" r="22"/>
+  <g class="ic" transform="translate(705,92)">
+    <rect x="-9" y="-8" width="18" height="18" rx="2.5"/>
+    <path d="M-9,-2 H9 M-5,-11 V-6 M5,-11 V-6"/>
+    <path d="M-4,4 H-3 M0,4 H1 M4,4 H5"/>
+  </g>
+  <text class="main" x="705" y="138">Scheduling</text>
+  <text class="sub" x="705" y="153">booking visits</text>
+
+  <!-- Card 6: Care delivered -->
+  <g filter="url(#shadow)">
+    <rect class="endc" x="790" y="56" width="130" height="108" rx="16"/>
+  </g>
+  <circle class="badgew" cx="855" cy="92" r="22"/>
+  <g class="icw" transform="translate(855,92)">
+    <path d="M0,9 C-12,0 -9,-9 -4,-8 C-2,-7.5 0,-5 0,-5 C0,-5 2,-7.5 4,-8 C9,-9 12,0 0,9 Z"/>
+  </g>
+  <text class="mainw" x="855" y="138">Care</text>
+  <text class="subw" x="855" y="153">delivered</text>
+
+  <!-- Bottleneck ties -->
+  <line class="tie" x1="255" y1="164" x2="255" y2="196"/>
+  <line class="tie" x1="405" y1="164" x2="405" y2="196"/>
+  <line class="tie" x1="555" y1="164" x2="555" y2="196"/>
+  <line class="tie" x1="705" y1="164" x2="705" y2="196"/>
+
+  <circle class="alert" cx="255" cy="180" r="9"/><text class="bang" x="255" y="184.5">!</text>
+  <circle class="alert" cx="405" cy="180" r="9"/><text class="bang" x="405" y="184.5">!</text>
+  <circle class="alert" cx="555" cy="180" r="9"/><text class="bang" x="555" y="184.5">!</text>
+  <circle class="alert" cx="705" cy="180" r="9"/><text class="bang" x="705" y="184.5">!</text>
+
+  <!-- Bottleneck pills -->
+  <g filter="url(#redshadow)">
+    <rect class="pill" x="190" y="196" width="130" height="54" rx="14"/>
+    <rect class="pill" x="340" y="196" width="130" height="54" rx="14"/>
+    <rect class="pill" x="490" y="196" width="130" height="54" rx="14"/>
+    <rect class="pill" x="640" y="196" width="130" height="54" rx="14"/>
+  </g>
+  <text class="pillh" x="255" y="216">BOTTLENECK</text>
+  <text class="pillt" x="255" y="236">re-keyed forms</text>
+  <text class="pillh" x="405" y="216">BOTTLENECK</text>
+  <text class="pillt" x="405" y="236">fax queues</text>
+  <text class="pillh" x="555" y="216">BOTTLENECK</text>
+  <text class="pillt" x="555" y="236">days of waiting</text>
+  <text class="pillh" x="705" y="216">BOTTLENECK</text>
+  <text class="pillt" x="705" y="236">scattered portals</text>
+
+  <!-- Where I build bracket -->
+  <path class="brace" d="M190,262 V270 H770 V262"/>
+  <text class="build" x="480" y="291">Where I build: workflow automation &amp; legacy system integration</text>
+
+  <text class="note" x="480" y="314">Illustrative example of common friction points, not measured data.</text>
+</svg>
