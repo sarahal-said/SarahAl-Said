@@ -10,7 +10,11 @@
 
 ![Computer Science](https://img.shields.io/badge/BS%2FMS-Computer_Science-0ea5e9?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![Health Services Administration](https://img.shields.io/badge/BS_%2B_MHSA-Health_Services_Administration-0f766e?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMCAzaDR2N2g3djRoLTd2N2gtNHYtN0gzdi00aDd6Ii8+PC9zdmc+)
+![Lean Six Sigma](https://img.shields.io/badge/Lean_Six_Sigma-Certified-0d9488?style=for-the-badge)
+![Girls Who Code](https://img.shields.io/badge/Girls_Who_Code-VP_%40_WGU-7c3aed?style=for-the-badge)
 ![Software Engineering](https://img.shields.io/badge/Software_Engineering-0ea5e9?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![Health Tech](https://img.shields.io/badge/Health_Tech-14b8a6?style=for-the-badge)
+![Privacy First](https://img.shields.io/badge/Privacy--First_Design-334155?style=for-the-badge)
 
 <img src="https://raw.githubusercontent.com/sarahal-said/sarahal-said/main/ecg.svg" width="80%" alt="" />
 
@@ -20,7 +24,7 @@
 
 ## 🩺 About
 
-I like problems that have been stuck for a long time.
+Healthcare’s oldest problems aren’t just “how things work.” I build the software that proves they can be fixed.
 
 I started in healthcare, earning a **BS and a Master of Health Services Administration (MHSA)**, and worked in healthcare operations at organizations like HCA Healthcare. That's where I learned what a bottleneck looks like from the inside: the referral that sits in a fax queue, the prior authorization that takes days, the intake form re-typed into three systems, the patient who gives up before reaching a clinician.
 
@@ -35,10 +39,12 @@ sarah = {
     "mission"     : "Remove the bottlenecks that stand between people and care",
     "education"   : [
         "BS + MHSA, Health Services Administration (FIU)",
+        "Lean Six Sigma Belt Certification",
         "BS/MS Computer Science, AI & ML (WGU, in progress)",
     ],
     "languages"   : ["Python", "Java", "JavaScript", "TypeScript", "SQL"],
     "stack"       : ["FastAPI", "Supabase", "Ollama", "LangChain", "AWS"],
+    "leadership"  : "VP, Girls Who Code Loop @ WGU",
     "location"    : "South Florida · Remote",
     "status"      : "Open to Software Engineering roles in health tech",
 }
@@ -63,7 +69,7 @@ Care is a chain of handoffs, and every handoff is a chance to lose time or lose 
 1. **Start with the workflow, not the technology.** I map where time and patients are lost before writing any code.
 2. **Meet legacy systems where they are.** Healthcare runs on systems that are old and deeply embedded. I build new layers that integrate with them, not rip-and-replace projects.
 3. **Reliability is part of access.** A tool that fails quietly in a clinical or regulated setting doesn't help anyone. I build with tests, guardrails, PII protection, and observability from day one.
-4. **Measure the bottleneck.** If a change doesn't reduce wait time, rework, or drop-off, it isn't done.
+4. **Measure the bottleneck.** I'm Lean Six Sigma certified, so I look for root causes and waste in a process before I automate it. If a change doesn't reduce wait time, rework, or drop-off, it isn't done.
 
 ---
 
@@ -107,9 +113,9 @@ Care is a chain of handoffs, and every handoff is a chance to lose time or lose 
 
 AI-integrated property bills manager. Automates bill intake, matching, approvals, and payments so property managers stop chasing paperwork.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
 
 </td>
 
@@ -143,6 +149,10 @@ AI-integrated app that keeps all of your doctor appointments in one place, so pa
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -185,8 +195,19 @@ AI-integrated app that keeps all of your doctor appointments in one place, so pa
 
 ---
 
+## 🤝 Community
+
+**Vice President, Girls Who Code Loop @ Western Governors University**
+
+Our Loop is a student chapter for people breaking into tech. As Vice President, I help build the network around it: a welcoming first stop for new members, events like our fall kickoff and the Breaking In career panel, and real connections between students and people already working in the field. The goal is a community where no one has to figure out a tech career alone.
+
+It's the same instinct as my healthcare work: find where people get stuck, then remove the barrier.
+
+---
+
 ## 📍 Currently
 
+- Serving as Vice President of the Girls Who Code Loop @ WGU, building a student network for people breaking into tech
 - Building Billio and MediTracker, and open-source tooling for safe, reliable AI
 - Finishing my BS/MS in Computer Science (AI & ML) at Western Governors University
 - Looking for **Software Engineering** roles on health tech teams working to make care faster and more accessible
