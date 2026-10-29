@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:0d9488,100:0ea5e9&height=190&section=header&text=Sarah%20Al-Said&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Health%20Tech%20%C2%B7%20Legacy%20System%20Integration%20%C2%B7%20Access%20to%20Care&descAlignY=58&descSize=15&descColor=ccfbf1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:0d9488,100:0ea5e9&height=190&section=header&text=Sarah%20Al-Said&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20BS%2FMS%20Computer%20Science%20%C2%B7%20BS%2FMHSA%20Health%20Services%20Administration&descAlignY=58&descSize=15&descColor=ccfbf1" />
 
 <a href="https://github.com/sarahal-said">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=Finding+the+bottleneck.+Fixing+the+bottleneck.;Bringing+AI+to+the+systems+healthcare+already+runs+on;Healthcare+operations+%C3%97+software+engineering;Making+care+easier+to+reach." alt="Typing SVG" />
@@ -8,10 +8,10 @@
 
 <br/>
 
+![Computer Science](https://img.shields.io/badge/BS%2FMS-Computer_Science-0ea5e9?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![Health Services Administration](https://img.shields.io/badge/BS_%2B_MHSA-Health_Services_Administration-0f766e?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMCAzaDR2N2g3djRoLTd2N2gtNHYtN0gzdi00aDd6Ii8+PC9zdmc+)
 ![Software Engineering](https://img.shields.io/badge/Software_Engineering-0ea5e9?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![Health Tech](https://img.shields.io/badge/Health_Tech-14b8a6?style=for-the-badge)
-![Privacy First](https://img.shields.io/badge/Privacy--First_Design-334155?style=for-the-badge)
 
 <img src="https://raw.githubusercontent.com/sarahal-said/sarahal-said/main/ecg.svg" width="80%" alt="" />
 
